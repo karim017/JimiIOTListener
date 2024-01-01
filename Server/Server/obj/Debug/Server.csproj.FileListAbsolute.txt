@@ -1,0 +1,5 @@
+c:\users\20151048\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\20151048\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\20151048\documents\visual studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\20151048\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\20151048\documents\visual studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
